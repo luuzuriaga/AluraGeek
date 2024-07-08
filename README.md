@@ -1,6 +1,6 @@
 <h1 align="center"> ALURA GEEK </h1>
 
-![Alura Geek](./images/logo.png)
+![Alura Geek](./imagenes/web.png)
 
 # Biblioteca Alura Geek
 
