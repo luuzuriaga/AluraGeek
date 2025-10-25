@@ -40,9 +40,9 @@ Bienvenido/a al repositorio de la Biblioteca Alura Geek — una página web de e
 
 1. [Instalación y ejecución local](#instalación-y-ejecución-local)
 2. [Estructura del proyecto](#estructura-del-proyecto)
-3. [Cómo contribuir](#cómo-contribuir)
-4. [Despliegue](#despliegue)
-5. [Licencia y contacto](#licencia-y-contacto)
+3. [Contribuir](#contribuir)
+4. [Instalación y Uso](#Instalación-y-Uso)
+5. [Autor](#Autor)
 
 ## Instalación y ejecución local
 
