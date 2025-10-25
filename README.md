@@ -114,21 +114,16 @@ Sugerencias de mejoras fáciles: añadir validaciones al formulario, conectar a 
    git clone https://github.com/luuzuriaga/AluraGeek.git
 
 2.	Accede a la carpeta del proyecto:
-   ```bash
+
     cd AluraGeek
 
 3.	Instala las dependencias (si las hay):
-    ```bash
+
     npx json-server --watch database/db.json --port 3000
 
 
 ## Autor
-
-
 Desarrollado por Lucero Uzuriaga
 📧 Contacto: lucero.uzuriaga2020@gmail.com
-
-
-
 
 
