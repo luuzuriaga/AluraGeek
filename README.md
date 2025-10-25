@@ -107,7 +107,7 @@ Si quieres contribuir:
 
 Sugerencias de mejoras fáciles: añadir validaciones al formulario, conectar a una API real, agregar estilos responsivos o tests simples.
 
-## ⚙️ Instalación y Uso
+## Instalación y Uso
 
 1. Clona el repositorio:
    ```bash
